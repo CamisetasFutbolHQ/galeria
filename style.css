@@ -37,4 +37,9 @@ h1 {
     width: 100%;
     height: 150px;            /* Fijamos altura uniforme */
     object-fit: cover;        /* Recorta para que no se deforme */
-    display: blo
+    display: block;
+}
+
+.item h3 {
+    margin: 1rem 0;
+}
